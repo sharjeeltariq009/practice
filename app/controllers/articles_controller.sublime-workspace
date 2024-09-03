@@ -1,0 +1,218 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/sharjeel/Desktop/Task/app/controllers/students_controller.rb",
+			"settings":
+			{
+				"buffer_size": 959,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAC/AwAAY2xhc3MgU3R1ZGVudHNDb250cm9sbGVyIDwgQXBwbGljYXRpb25Db250cm9sbGVyCgpodHRwX2Jhc2ljX2F1dGhlbnRpY2F0ZV93aXRoIG5hbWU6ICJzaGFyamVlbCIsIHBhc3N3b3JkOiAic2hhcmplZWwiLCBleGNlcHQ6IFs6aW5kZXgsIDpzaG93XQoKICBkZWYgaW5kZXgKICBAc3R1ZGVudHMgPSBTdHVkZW50LmFsbAogIGVuZAogIAogIGRlZiBzaG93CiAgQHN0dWRlbnQgPSBTdHVkZW50LmZpbmQocGFyYW1zWzppZF0pCiAgZW5kCiAgCiAgZGVmIG5ldwogIEBzdHVkZW50ID1TdHVkZW50Lm5ldwogIGVuZAogIAogIGRlZiBjcmVhdGUKICAgQHN0dWRlbnQgPSBTdHVkZW50Lm5ldyhzdHVkZW50X3BhcmFtcykKCiAgICBpZiBAc3R1ZGVudC5zYXZlCiAgICAgIHJlZGlyZWN0X3RvIEBzdHVkZW50CiAgICBlbHNlCiAgICAgIHJlbmRlciA6bmV3LCBzdGF0dXM6IDp1bnByb2Nlc3NhYmxlX2VudGl0eQogICAgZW5kCiAgZW5kCiAgCiAgZGVmIGVkaXQKICBAc3R1ZGVudCA9IFN0dWRlbnQuZmluZChwYXJhbXNbOmlkXSkKICBlbmQKICAKICBkZWYgdXBkYXRlCiAgQHN0dWRlbnQgPSBTdHVkZW50LmZpbmQocGFyYW1zWzppZF0pCiAgaWYgQHN0dWRlbnQudXBkYXRlKHN0dWRlbnRfcGFyYW1zKQogIHJlZGlyZWN0X3RvIEBzdHVkZW50CiAgZWxzZQogIHJlbmRlciA6ZWRpdCwgc3RhdHVzOiA6dW5wcm9jZXNzYWJsZV9lbnRpdHkKICBlbmQKICBlbmQKICAKICBkZWYgZGVzdHJveQogIEBzdHVkZW50ID0gU3R1ZGVudC5maW5kKHBhcmFtc1s6aWRdKQogIEBzdHVkZW50LmRlc3Ryb3kKICByZWRpcmVjdF90byByb290X3BhdGgsIHN0YXR1czogOnNlZV9vdGhlcgogIGVuZAogIAogIHByaXZhdGUKICAgIGRlZiBzdHVkZW50X3BhcmFtcwogICAgICBwYXJhbXMucmVxdWlyZSg6c3R1ZGVudCkucGVybWl0KDpmbmFtZSwgOmxuYW1lLCA6cGhvbmUsIDpnZW5kZXIsIDpmZWVzKQogICAgZW5kCmVuZAoAAAAAAAAAAL8DAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sharjeel/class.rb"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/sharjeel/Desktop/Task/app/controllers/students_controller.rb",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "articles_controller.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
